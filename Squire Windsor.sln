@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squire.Mongo.Windsor", "src\Squire.Mongo.Windsor\Squire.Mongo.Windsor.csproj", "{B5C76277-7C6F-4FB2-844A-996AE7DC62D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squire.Mongo.Windsor.Tests", "tests\Squire.Mongo.Windsor.Tests\Squire.Mongo.Windsor.Tests.csproj", "{2F9FC9A3-41E9-4411-9EB7-00581A7DA2D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5ECF7F51-B5BD-4F26-9211-9498089C24DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squire.Web.Windsor", "src\Squire.Web.Windsor\Squire.Web.Windsor.csproj", "{115E395C-8C07-41EE-8F99-1510C517D36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squire.Decoupled.Windsor", "src\Squire.Decoupled.Windsor\Squire.Decoupled.Windsor.csproj", "{01B6D4C0-CA02-4972-8EDE-FF20069A6E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squire.Decoupled.Windsor.Tests", "tests\Squire.Decoupled.Windsor.Tests\Squire.Decoupled.Windsor.Tests.csproj", "{AA57B202-3C61-4AF6-A958-176592233183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squire.Web.Windsor.Tests", "tests\Squire.Web.Windsor.Tests\Squire.Web.Windsor.Tests.csproj", "{2943CFA2-E2D5-46CA-B1C9-2F4AE37B4351}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46029E30-F23C-4A70-AE4D-94479ABAFAE2}"
+	ProjectSection(SolutionItems) = preProject
+		GlobalAssemblyInfo.cs = GlobalAssemblyInfo.cs
+		Gruntfile.js = Gruntfile.js
+		MIT-LICENSE.txt = MIT-LICENSE.txt
+		package.json = package.json
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C76277-7C6F-4FB2-844A-996AE7DC62D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C76277-7C6F-4FB2-844A-996AE7DC62D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C76277-7C6F-4FB2-844A-996AE7DC62D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C76277-7C6F-4FB2-844A-996AE7DC62D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9FC9A3-41E9-4411-9EB7-00581A7DA2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9FC9A3-41E9-4411-9EB7-00581A7DA2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9FC9A3-41E9-4411-9EB7-00581A7DA2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9FC9A3-41E9-4411-9EB7-00581A7DA2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115E395C-8C07-41EE-8F99-1510C517D36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115E395C-8C07-41EE-8F99-1510C517D36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115E395C-8C07-41EE-8F99-1510C517D36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115E395C-8C07-41EE-8F99-1510C517D36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B6D4C0-CA02-4972-8EDE-FF20069A6E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B6D4C0-CA02-4972-8EDE-FF20069A6E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B6D4C0-CA02-4972-8EDE-FF20069A6E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B6D4C0-CA02-4972-8EDE-FF20069A6E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA57B202-3C61-4AF6-A958-176592233183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA57B202-3C61-4AF6-A958-176592233183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA57B202-3C61-4AF6-A958-176592233183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA57B202-3C61-4AF6-A958-176592233183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2943CFA2-E2D5-46CA-B1C9-2F4AE37B4351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2943CFA2-E2D5-46CA-B1C9-2F4AE37B4351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2943CFA2-E2D5-46CA-B1C9-2F4AE37B4351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2943CFA2-E2D5-46CA-B1C9-2F4AE37B4351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F9FC9A3-41E9-4411-9EB7-00581A7DA2D6} = {5ECF7F51-B5BD-4F26-9211-9498089C24DC}
+		{AA57B202-3C61-4AF6-A958-176592233183} = {5ECF7F51-B5BD-4F26-9211-9498089C24DC}
+		{2943CFA2-E2D5-46CA-B1C9-2F4AE37B4351} = {5ECF7F51-B5BD-4F26-9211-9498089C24DC}
+	EndGlobalSection
+EndGlobal

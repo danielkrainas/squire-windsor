@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>squire.mongo.windsor</id>
+        <version>$version$</version>
+        <title>Squire Mongo Windsor Extensions</title>
+        <authors>Daniel Krainas</authors>
+        <owners />
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>squire mongo windsor</tags>
+        <description>Squire mongo windsor extensions.</description>
+        <dependencies>
+          <dependency id="squire.essentials" version="" />
+          <dependency id="squire.mongo" version="" />
+          <dependency id="squire.unhinged" version="" />
+        </dependencies>
+    </metadata>
+    <files>
+    </files>
+</package>
