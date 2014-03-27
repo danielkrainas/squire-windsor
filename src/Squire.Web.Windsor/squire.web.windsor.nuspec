@@ -6,6 +6,8 @@
         <title>Squire Web Castle Windsor Extensions</title>
         <authors>Daniel Krainas</authors>
         <owners />
+        <language>en-US</language>
+        <projectUrl>https://github.com/danielkrainas/squire-windsor</projectUrl>
         <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <tags>squire mvc web windsor</tags>

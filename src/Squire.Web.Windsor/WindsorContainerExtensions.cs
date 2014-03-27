@@ -1,4 +1,4 @@
-﻿namespace Squire.Reticulated.Windsor
+﻿namespace Squire.Web.Windsor
 {
     using Castle.MicroKernel.Registration;
     using Castle.Windsor;
