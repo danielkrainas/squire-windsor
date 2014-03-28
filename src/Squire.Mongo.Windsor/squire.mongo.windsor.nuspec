@@ -15,7 +15,7 @@
         <dependencies>
           <dependency id="squire.essentials" version="" />
           <dependency id="squire.mongo" version="" />
-          <dependency id="squire.unhinged" version="" />
+          <dependency id="squire.decoupled" version="" />
         </dependencies>
     </metadata>
     <files>
