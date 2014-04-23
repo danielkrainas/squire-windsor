@@ -45,14 +45,17 @@
     <Reference Include="MongoDB.Driver">
       <HintPath>..\..\packages\mongocsharpdriver.1.8.3\lib\net35\MongoDB.Driver.dll</HintPath>
     </Reference>
-    <Reference Include="Squire.Decoupled">
-      <HintPath>..\..\packages\squire.decoupled.0.1.1\lib\net40\Squire.Decoupled.dll</HintPath>
+    <Reference Include="Squire.Decoupled, Version=0.1.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\squire.decoupled.0.1.3\lib\net40\Squire.Decoupled.dll</HintPath>
     </Reference>
-    <Reference Include="Squire.Essentials">
-      <HintPath>..\..\packages\squire.essentials.0.1.1\lib\net40\Squire.Essentials.dll</HintPath>
+    <Reference Include="Squire.Essentials, Version=0.1.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\squire.essentials.0.1.3\lib\net40\Squire.Essentials.dll</HintPath>
     </Reference>
-    <Reference Include="Squire.Mongo">
-      <HintPath>..\..\packages\squire.mongo.0.1.0\lib\net40\Squire.Mongo.dll</HintPath>
+    <Reference Include="Squire.Mongo, Version=0.1.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\squire.mongo.0.1.4\lib\net40\Squire.Mongo.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
